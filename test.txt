@@ -1,1 +1,2 @@
 hello
+VAR1=NEW_VAR
